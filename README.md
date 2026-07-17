@@ -4,7 +4,7 @@
 Aiman Tahir
 
 ## Internship Domain
-Frontend Web Development
+Full stack Web Development
 
 ## Project Objective
 The Employee Management System is a responsive frontend web application developed as an internship task. It helps manage employee information through a clean and user-friendly interface while demonstrating version control using Git and GitHub.
