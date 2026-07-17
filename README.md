@@ -43,18 +43,7 @@ Employee-Management-System/
 
 
 
-screenshorts:
 
-
-<img width="528" height="221" alt="image" src="https://github.com/user-attachments/assets/63170dba-0a62-4bc5-8dc3-e08eeed74e64" />
-
-
-<img width="711" height="326" alt="image" src="https://github.com/user-attachments/assets/9f27a223-147d-4061-a5e1-429199e4ffbb" />
-<img width="711" height="326" alt="image" src="https://github.com/user-attachments/assets/f8ee9950-8bef-4bd1-aaa6-8a0f5ebcd497" />
-
-<img width="716" height="299" alt="image" src="https://github.com/user-attachments/assets/c8c811dc-536a-467b-867a-89ccdd0d1fb2" />
-
-```
 
 
 ## Installation
@@ -90,6 +79,21 @@ https://github.com/Aiman350/Employee-Management-System.git
 ## Live Website
 
 https://aiman350.github.io/Employee-Management-System/
+
+
+
+screenshorts:
+
+
+<img width="528" height="221" alt="image" src="https://github.com/user-attachments/assets/63170dba-0a62-4bc5-8dc3-e08eeed74e64" />
+
+
+<img width="711" height="326" alt="image" src="https://github.com/user-attachments/assets/9f27a223-147d-4061-a5e1-429199e4ffbb" />
+<img width="711" height="326" alt="image" src="https://github.com/user-attachments/assets/f8ee9950-8bef-4bd1-aaa6-8a0f5ebcd497" />
+
+<img width="716" height="299" alt="image" src="https://github.com/user-attachments/assets/c8c811dc-536a-467b-867a-89ccdd0d1fb2" />
+
+```
 ## Author
 
 **Aiman Tahir**
