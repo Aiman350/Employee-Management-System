@@ -47,7 +47,7 @@ Employee-Management-System/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/Aiman350/Employee-Management-System/
 ```
 
 2. Open the project folder.
@@ -70,12 +70,11 @@ git push
 
 ## GitHub Repository
 
-Paste your GitHub repository link here.
+https://github.com/Aiman350/Employee-Management-System/
 
 ## Live Website
 
-Paste your GitHub Pages URL here after deployment.
-
+https://aiman350.github.io/Employee-Management-System/
 ## Author
 
 **Aiman Tahir**
