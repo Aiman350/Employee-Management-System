@@ -4,7 +4,7 @@
 Aiman Tahir
 
 ## Internship Domain
-Frontend Web Development
+Full stack Web Development
 
 ## Project Objective
 The Employee Management System is a responsive frontend web application developed as an internship task. It helps manage employee information through a clean and user-friendly interface while demonstrating version control using Git and GitHub.
@@ -47,7 +47,7 @@ Employee-Management-System/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_LINK
+git clone https://github.com/Aiman350/Employee-Management-System.git
 ```
 
 2. Open the project folder.
@@ -70,12 +70,11 @@ git push
 
 ## GitHub Repository
 
-Paste your GitHub repository link here.
+https://github.com/Aiman350/Employee-Management-System.git
 
 ## Live Website
 
-Paste your GitHub Pages URL here after deployment.
-
+https://aiman350.github.io/Employee-Management-System/
 ## Author
 
 **Aiman Tahir**
